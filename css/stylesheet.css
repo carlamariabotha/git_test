@@ -1,0 +1,42 @@
+body {
+    font-family: 'Mulish', sans-serif;
+    background-color: rgb(179, 139, 86);
+    margin: 0;
+}
+
+header {
+    background-color: #ffa303;
+    font-family: 'Philosopher', sans-serif;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(119, 77, 77);
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+aside {
+    float: left;
+    background-color: #ffe203;
+    width: 25%;
+}
+
+section {
+    background-color: #ff6403;
+    width: 70%;
+}
+
+
+footer {
+    background-color: #ffa303;
+    padding: 25px 0px;
+    margin-top: 50px;
+}
+
+li {
+    list-style-type: none;
+}
